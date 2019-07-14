@@ -1,8 +1,8 @@
-    
+ 
 {
-  "name": "Goodbye geocities.jp",
-  "short_name": "Goodbye geocities.jp",
-  "description": "geocities.jp へのアクセスを archive.org へリダイレクトします",
+  "name": "Goodbye minecraftuser.jp",
+  "short_name": "Goodbye minecraftuser.jp",
+  "description": "minecraftuser.jp へのアクセスを archive.org へリダイレクトします",
   "version": "0.0.3",
   "manifest_version": 2,
   "icons": {
@@ -13,10 +13,8 @@
   "content_scripts": [
     {
       "matches": [
-        "http://*.geocities.jp/*",
-        "http://*.geocities.co.jp/*",
-        "https://*.geocities.jp/*",
-        "https://*.geocities.co.jp/*"
+        "http://*.minecraftuser.jp/*",
+        "https://*.minecraftuser.jp/*"
       ],
       "js": [
         "jump.js"
