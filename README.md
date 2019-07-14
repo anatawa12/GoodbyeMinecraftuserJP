@@ -1,23 +1,19 @@
 
-# 諸君らが愛してくれたYahoo!ジオシティーズは死んだ！何故だ！
+# 諸君らが愛してくれたマインクラフト非公式日本ユーザーフォーラムは死ぬ！何故だ！
 
-## Goodbye Geocities JP
+## Goodbye Minecraftuser.JP
 
 ### これは何？
 
 Chrome拡張です。
-Yahoo!ジオシティーズ が閉鎖されてしまったので、以下のURLの場合は archive.org へ飛ぶようにします。あらかじめリダイレクト先がある場合はそちらを優先して飛びます。
+マインクラフト非公式日本ユーザーフォーラムが閉鎖されてしまったので、以下のURLの場合は archive.org へ飛ぶようにします。
 
-- "http://\*.geocities.jp/*"
-- "http://\*.geocities.co.jp/*"
-- "https://\*.geocities.jp/*"
-- "https://\*.geocities.co.jp/*"
+- "http://\*.minecraftuser.jp/*"
+- "https://\*.minecraftuser.jp/*"
 
 ### インストールのしかた
 
-Chromeウェブストアからインストール可能です。
-
-https://chrome.google.com/webstore/detail/goodbye-geocitiesjp/lemfgphjhikbbadomlciomdgchbmaldp
+Chromeウェブストアからインストール可能にするつもりです。
 
 ### 免責事項
 
