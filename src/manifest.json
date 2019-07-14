@@ -3,7 +3,7 @@
   "name": "Goodbye minecraftuser.jp",
   "short_name": "Goodbye minecraftuser.jp",
   "description": "minecraftuser.jp へのアクセスを archive.org へリダイレクトします",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "manifest_version": 2,
   "icons": {
     "16": "icon16.png",
