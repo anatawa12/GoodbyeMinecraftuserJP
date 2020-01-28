@@ -27,7 +27,7 @@ rootDiv.appendChild(childDiv);
 
 
 setTimeout(function () {
-    var url = "https://web.archive.org/web/201812030030000"+location.href;
+    var url = "https://web.archive.org/web/201812030030000/"+location.href;
     
     var doc = rootDiv;
         
