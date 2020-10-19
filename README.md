@@ -13,9 +13,12 @@ Chrome拡張です。また、[GoodbyeGeocitiesJP](https://github.com/GOROman/Go
 
 ### インストールのしかた
 
-Chromeウェブストアからインストール可能です。
+各ブラウザプラグインのstoreからダウンロードしてください。
 
-https://chrome.google.com/webstore/detail/goodbye-minecraftuserjp/ohbgjelbnnilhimcihoipnkelmdfdhbe
+chrome版: (https://chrome.google.com/webstore/detail/goodbye-minecraftuserjp/ohbgjelbnnilhimcihoipnkelmdfdhbe)[chrome store]
+firefox版: (https://addons.mozilla.org/ja/firefox/addon/goodbye-minecraftuser-jp/)[firefox add-ons]
+Edge版: (https://microsoftedge.microsoft.com/addons/detail/lgilcinakdmgcioklfmggoggjcgclool)[Microsoft Stgore]
+Safari版: 対応検討中です
 
 ### 免責事項
 
