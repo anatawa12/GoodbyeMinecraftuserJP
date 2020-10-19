@@ -8,8 +8,8 @@
 Chrome拡張です。また、[GoodbyeGeocitiesJP](https://github.com/GOROman/GoodbyeGeocitiesJP)のパロディです
 マインクラフト非公式日本ユーザーフォーラムが閉鎖されてしまったので、以下のURLの場合は archive.org へ飛ぶようにします。
 
-- "http://\*.minecraftuser.jp/*"
-- "https://\*.minecraftuser.jp/*"
+- "http://forum.minecraftuser.jp/*"
+- "https://forum.minecraftuser.jp/*"
 
 ### インストールのしかた
 
