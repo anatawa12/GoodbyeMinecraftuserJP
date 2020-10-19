@@ -18,7 +18,7 @@ childDiv.style.setProperty('transform', 'translateY(-50%) translateX(-50%)');
 childDiv.style.setProperty('-webkit-transform', 'translateY(-50%) translateX(-50%)');
 const p1 = document.createElement('p');
 const p2 = document.createElement('p');
-p1.textContent = 'minecraftuser.jpは終わってしまった！';
+p1.textContent = 'forum.minecraftuser.jpは終わってしまった！';
 p2.textContent = 'Web Archiveに自動で飛ぶよ！！';
 
 childDiv.appendChild(p1);
